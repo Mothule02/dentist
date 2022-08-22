@@ -1,0 +1,184 @@
+.App{
+  padding-top: 60px;
+  
+}
+.App-content{
+  transition-duration: 700ms;
+}
+.lines{
+  display: none;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+}
+li{
+  list-style: none;
+ 
+}
+.contact{
+  position: fixed;
+  /* transform: translateX(-50%); */
+  right: 10px;
+  top: 23px;
+  display: flex;
+  width: fit-content;
+ 
+}
+
+.contact :nth-child(1){
+  margin-right: 10px;
+}
+.App-header {
+  position: fixed;
+  top: 0px;
+  left: 0;
+  right: 0;
+  background-color: azure;
+  display: flex;
+  height: 60px;
+  color: #fff;
+}
+.App-footer{
+  width: 100%;
+  background-color: rgb(4, 16, 34);
+  height: fit-content;
+
+}
+.a{
+  margin-right: 20px;
+  margin-left: 20px;
+  color: #06f;
+  text-decoration: none;
+  padding: 5px 7px;
+  font-weight: 500;
+  
+}
+.a.active{
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  background-color: #eee;
+  color: #06f;
+  font-weight: 500;
+  
+  transition-duration: 700ms;
+}
+.header-links {
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+
+}
+.App-footer .f-s{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.App-footer .f-s div{
+  margin: 12px;
+}
+.f-s div a, .f-s div .a-footer{
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #06f;
+}
+.f-s div h4{
+  margin-top: 0px;
+  margin-bottom: 10px;
+  color: #06f;
+}
+.copyright{
+  text-align: center;
+  color: #fff;
+}
+@media screen and (max-width: 770px) {
+  .contact{
+    transform: translateX(-50%);
+    top: 5px;
+    left: 50%;
+
+  }
+  .contact img{
+    display: none;
+  }
+  .contact div a{
+    font-weight: 500;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  
+  .header-links{
+    
+    z-index: 99;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    background-color: aliceblue;
+    top: -30px;
+    left: 0;
+    right: 0;
+  }
+  
+  .header-links .a{
+    
+    display: flex;
+    align-self: center;
+  }
+  
+  .logo{
+    z-index: 100;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .contact :nth-child(1){
+    margin-right: 10px;
+    
+  }
+  .contact{
+    flex-direction: column;
+  }
+  
+  .lines{
+    z-index: 100;
+    position: fixed;
+    top: 22px;
+    right: 10px;
+    height: 40px;
+    display: block;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+
+  }
+  .lines div{
+    width: 25px;
+    position: relative;
+    border: 2px solid rgb(0, 71, 107);
+    margin-bottom: 5px;
+    align-self: end;
+  }
+  .lines .c-1{
+    position: relative;
+    transform: rotate(45deg);
+    margin-bottom: 0;
+  }
+  .lines .c-2{
+    display: none;
+  }
+  .lines .c-3{
+    
+    transform: rotate(-45deg);
+    top: -4px;
+    margin-bottom: 0;
+  }
+  
+}
+

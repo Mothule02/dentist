@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "coral-circlet-331006"
+  },
+  "targets": {
+    "coral-circlet-331006": {
+      "hosting": {
+        "dentist": [
+          "dentist-8f4bf"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

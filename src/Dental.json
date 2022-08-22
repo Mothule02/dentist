@@ -1,0 +1,417 @@
+{
+    "Tooth Ache":{
+        "description": "A toothache is a pain in or around a tooth. Minor toothaches can come from a temporary gum irritation that you can treat at home. More serious toothaches are caused by dental and mouth problems that won’t get better on their own and will need to be treated by a dentist.",
+        "causes": [
+            "Tooth Decay",
+            "Abscessed tooth (a bacterial infection inside the center of the tooth).",
+            "Tooth fracture (broken tooth)",
+            "A damaged filling",
+            "Repetitive motions, such as chewing gum or grinding or clenching teeth. These motions can wear down your teeth",
+            "Eruption (teeth coming out of the gums) or removal of a tooth (for example, wisdom teeth)",
+            "Infected gums"
+        ],
+        "treatment": {
+            "status": "For temporary relief of a toothache at home, you can do the following",
+            "steps": [
+                "Rinse with warm saltwater. Saltwater can loosen debris between your teeth, act as a disinfectant and reduce inflammation. Stir a ½ teaspoon of salt into a glass of warm water and rinse your mouth thoroughly.",
+                "Rinse with hydrogen peroxide. A hydrogen peroxide (3% solution) helps to reduce inflammation and pain. Dilute the hydrogen peroxide with equal parts water and rinse thoroughly. Don’t swallow it.",
+                "Cold compress. For swelling and pain hold a cold compress of ice wrapped in a towel to the painful area for 20-minute periods. Repeat every few hours.",
+                "Pain medications. Over-the-counter pain medications can reduce pain and inflammation. NSAIDs (nonsteroidal anti-inflammatory drugs) such as aspirin, ibuprofen (Motrin®, Advil®) and naproxen (Aleve®) can be used, or take acetaminophen (Tylenol®) if you can’t take NSAIDs. Don’t give a child under the age of 16 aspirin; use Tylenol instead.",
+                "Clove oil. A natural antiseptic that numbs pain and reduces inflammation. Dab a small amount of clove oil on a cotton ball and apply to the painful area. Or add a drop of clove oil to a small glass of water and rinse your mouth thoroughly.",
+                "Vanilla extract. The alcohol in vanilla extract numbs pain temporarily and its antioxidants help the area heal. Use your fingertips or cotton ball to apply the extract to the tooth and gum a few times a day.",
+                "Peppermint tea. Peppermint’s soothing properties can be applied to the painful area with a cooled down peppermint tea bag. Hold this warm tea bag against the tooth and gum.",
+                "Garlic. Make a paste of a crushed garlic clove and apply to the affected area. Garlic can kill bacteria (it contains the antimicrobial allicin) and relieve pain."
+            ]
+        }
+    },
+    "tooth-extraction":{
+        "head": "What is a tooth extraction?",
+        "description": "A tooth extraction is a dental procedure during which your tooth is completely removed from its socket. Sometimes, people refer to this as `ulling` a tooth.",
+        "recommended":{
+            "head": "When is tooth extraction recommended?",
+            "intro": "Healthcare providers prefer to save natural teeth whenever possible. But sometimes, other restorative methods — such as dental fillings or dental crowns — aren’t enough. If your tooth has been badly damaged past the point of repair, then removal may be necessary. Your dentist may recommend tooth extraction if you have",
+            "points":[
+                "Severe tooth decay (cavities)",
+                "A fractured tooth.",
+                "An impacted tooth.",
+                "Crowded teeth.",
+                "Severe gum disease.",
+                "Tooth luxation or other dental injuries."
+            ]
+        },
+        "benefits":{
+            "intro": "",
+            "points":[
+                "Tooth extraction offers a number of benefits. Most importantly, it reduces harmful bacteria that can damage your teeth and gums. Left untreated, a decayed or damaged tooth can wreak havoc on your smile, causing a domino effect of problems. Removing your affected tooth gives you the best chance for optimal oral health. Additionally, a tooth extraction can help ease dental pain almost immediately — especially if your tooth was severely broken or infected."
+            ]
+        },
+        "risks": {
+            "head": "What are the risks or complications of tooth extraction?",
+            "intro": "Like any surgical procedure, tooth extraction carries a small risk of complications. These may include",
+            "points":[
+                "Post-surgical infection.",
+                "Dry socket.",
+                "Nerve injury.",
+                "Perforation of maxillary sinus.",
+                "Delayed healing."
+            ]
+        },
+        "aftercare":{
+            "head": "Tooth extraction aftercare",
+            "intro": "After your extraction, your dentist will give you a detailed list of post-surgical instructions. Here are some general guidelines for a speedy recovery",
+            "points":[
+                "Keep the extraction site clean. Gently rinse the area with an antimicrobial mouthwash two to three times a day. Avoid brushing directly over your extraction site until your dentist tells you it’s safe to do so. Brush and floss all other areas normally.",
+                "Take all medications as directed. Your dentist may prescribe antibiotics and pain relievers. It’s important to take all of these medications exactly as directed. You can also take over-the-counter pain relievers, such as acetaminophen and ibuprofen.",
+                "Avoid strenuous activity for at least two days. An elevated heart rate can cause increased post-operative bleeding and discomfort. Skip the gym for the first 48 to 72 hours. Ask your dentist when it’s safe to resume normal routines.",
+                "Avoid hard and crunchy foods for the first few days. Stock your fridge and pantry with soft foods like rice, pasta, eggs, yogurt and applesauce. You’ll also want to avoid drinking through straws, as this can dislodge blood clots and cause dry sockets."
+
+            ]
+        }
+
+    },
+    "dental-implants":{
+        "intro": "What are dental implants?",
+        "discription": "Dental implants are used to replace missing teeth. An implant is a titanium metal screw that replaces a tooth root. The implant acts as an anchor for artificial (fake) teeth",
+        "recommended":{
+            "head": "Who might need dental implants?",
+            "intro": "Most people who have one or more missing teeth are candidates for dental implants. You may need a dental implant if you lose a tooth due to",
+            "points":[
+                "Cavities (tooth decay).",
+                "Tooth root fracture.",
+                "Clenching or grinding habit.",
+                "Cleft lip (put this at the bottom of the list).",
+                "Facial injury.",
+                "Gum disease."
+            ]
+        },
+        "benefits": {
+            "head": "What are the benefits of dental implants?",
+            "intro":"",
+            "points":[
+                "Dental implants can improve your appearance, speech and chewing ability. Your dentist may recommend implants to secure permanent or removable dental bridges and dentures. Because implants are permanent, you don’t have to use adhesives like those that hold dentures in place. And, unlike dental bridges that require a provider to remove parts of nearby teeth, all of your healthy teeth stay intact. Dental implants do not get cavities."
+            ]
+        },
+        
+        "risks":{ 
+            "head": "When should I call the dentist?",
+            "intro":"You should call your healthcare provider if you experience:",
+            "points":[
+                "Difficulty chewing, speaking or opening your mouth.",
+                "Facial swelling.",
+                "Toothache or mouth pain.",
+                "Signs of gum infection, such as persistent bad breath, swollen, painful gums, tooth looseness or new gaps between teeth, or pus."
+            ]
+        },
+        "aftercare":{
+            "head": "How do I care for dental implants?",
+            "intro":"Although dental implants can’t get cavities, you can still get gum disease at the implant location. Proper oral hygiene is key to protecting teeth and implants. You should",
+            "points":[
+                "Take care of teeth and gums by brushing and flossing daily.",
+               " Get regular dental checkups.",
+                "Learn how to correctly care for dentures or dental bridges to protect the devices and your gums."
+            ]
+        }
+    },
+    "dental-crowns": {
+        "head": "What are dental crowns?",
+        "description": "Over time, your teeth can get damaged. This can happen for a variety of reasons, like tooth decay, injuries or just use over time. Your teeth can lose their shape or size. Dental crowns are tooth-shaped “caps” that can be placed over your tooth. Think of it like a snug hat for your tooth. The crown restores the tooth’s shape, size, strength and appearance.",
+        "recommended": {
+            "head": "Why would I need a dental crown?",
+            "intro": "You may need a dental crown for several reasons, including:",
+            "points":[
+                "Protecting a weak tooth (possibly from decay) from breaking or to keep the weak tooth together if parts of it are cracked",
+                "Restoring a broken tooth or a severely worn down tooth.",
+                "Covering and supporting a tooth with a large filling and not much tooth remaining.",
+                "Holding a dental bridge in place.",
+                "Covering misshapen or severely discolored teeth.",
+                "Covering a dental implant.",
+                "Covering a tooth that’s been treated with a root canal."
+            ]
+        },
+        "benefits": {
+            "head": "How long do dental crowns last?",
+            "intro": "On average, dental crowns last between five and 15 years. The life space of a crown can depend on the amount of “wear and tear” the crown is exposed to, how well you follow oral hygiene practices and personal mouth-related habits. These mouth-related habits can include things like:",
+            "points":[
+                "Grinding or clenching your teeth.",
+                "Chewing ice.",
+                "Biting your fingernails.",
+                "Using your teeth to open packaging."
+            ]
+        },
+        "risks":{
+            "head": "What problems can develop with a dental crown?",
+            "intro": "",
+            "points":[
+            "Discomfort or sensitivity: A newly crowned tooth may be sensitive immediately after the procedure as the anesthesia begins to wear off. If the crowned tooth still has a nerve in it, you may experience some heat and cold sensitivity. Your dentist might recommend that you brush your teeth with toothpaste designed for sensitive teeth. Pain or sensitivity that happens when you bite down usually means that the crown is too high on the tooth. If this is the case, call your dentist. This problem is easily fixed.",
+            "Chipped crown: Crowns made of all porcelain can sometimes chip. Small chips can be repaired and the crown can remain in your mouth. The dental crown may need to be replaced if the chip is large or when there are many chips.at the crown is too high on the tooth. If this is the case, call your dentist. This problem is easily fixed.",
+            "Loose crown: Sometimes, the cement that holds the crown on can wash out from under the crown. Not only does this allow the crown to become loose, it allows bacteria to leak in and cause decay to the tooth that remains. If your crown feels loose, contact your dentist’s office.",
+            "Crown falls off: A dental crown can actually fall off. When this happens, it’s usually due to an improper fit or a lack of cement. If this happens to you, reach out to your dentist’s office immediately. Your dentist will give you specific instructions on how to care for your tooth and crown until you can come in for an appointment. The dentist may be able to re-cement your crown in place. If the crown can’t be put back in place, a new crown will need to be made.",
+            "Allergic reaction: The metals used to make dental crowns are often a mixture of several metals. You can have an allergic reaction to the metal or porcelain that’s used in the dental crown. However, this is extremely rare.",
+            "Dark line on crowned tooth next to the gum line: You might see a dark line next to the gum line of your crowned tooth. This is normal — particularly if you have a porcelain-fused-to-metal crown. This dark line is simply the metal of the crown showing through."
+            ]
+        },
+        "aftercare": {
+            "head": "Does a crowned tooth require any special care?",
+            "intro": "",
+            "points":[
+                "A crowned tooth doesn’t need any special care. However, the underlying tooth still needs to be protected from decay or gum disease. Because of this, you should continue to follow good oral hygiene practices. These practices include brushing your teeth twice a day and flossing once a day — especially around the crown area where the gum meets your tooth. Also, avoid biting on hard surfaces with porcelain crowns (for example, chewing ice or popcorn hulls) to prevent cracking the porcelain."
+            ]
+        }
+    },
+    "dental-bridges": {
+        "head": "What are dental bridges?",
+        "description": "If you have one or more missing teeth, a dental bridge can fill the gap with one or more artificial (false) teeth. A bridge is typically made of crowns on either side of the missing tooth or teeth supporting the pontic (false tooth) and is cemented in place.",
+        "recommended": {
+            "head": "Why do I need a dental bridge?",
+            "intro": "Your teeth work together. If a tooth is missing, nearby teeth can move into the empty space. The teeth in your opposite jaw can also move up or down toward the space. This can cause",
+            "points":[
+                "Missing tooth or teeth.",
+                "Bite problems.",
+                "Chewing difficulties.",
+                "Pain from the extra stress on your teeth and jaw.",
+                "Self-consciousness about the way you look or your smile."
+            ]
+        },
+        "benefits": {
+            "head": "What are the advantages of this procedure?",
+            "intro": "A dental bridge can",
+            "points":[
+                "Help your bite.",
+                "Prevent remaining teeth from moving out of place.",
+                "Restore your ability to chew and speak.",
+                "Restore your smile."
+            ]
+        },
+        "risks":{
+            "head": "Do dental bridges have any risks or complications?",
+            "intro": "",
+            "points":[
+            "If you care for your bridge properly, it can last many years without complications. The bridge may fail if the surrounding teeth decay or if the cement deteriorates. If the bridge comes loose and the supporting teeth are still healthy and intact, your provider may be able to re-attach it with new cement."
+            ]
+        },
+        "aftercare": {
+            "head": "How do I care for my dental bridge?",
+            "intro": "The success of the dental bridge depends on the health and strength of the remaining teeth. With a bridge, it’s especially important to prevent tooth decay and gum disease that can lead to tooth loss. For proper tooth and gum care, you should",
+            "points":[
+                "Brush twice a day and floss daily: A dental professional can show you the right way to brush and floss. You will probably use a special type of floss called a threader that lets you slide the floss between the bridge and your gum.",
+                "Get regular professional cleanings: Seeing a dental provider regularly can help detect problems early, when treatment is more successful.",
+                "Eat a balanced diet: Include plenty of fruits, vegetables and fiber and try to limit chewy, fibrous foods like some meats."
+            ]
+        }
+    },
+    "dental-fillings":{
+        "head": "What are dental fillings?",
+        "description": "Dental fillings are single or combinations of metals, plastics, glass or other materials used to repair or restore teeth. One of the most popular uses of fillings is to “fill” an area of tooth that your dentist has removed due to decay – “a cavity.” Fillings are also used to repair cracked or broken teeth and teeth that have been worn down from misuse (such as from nail-biting or tooth grinding).",
+        "recommended":{
+            "head": "What materials are dental fillings made from?",
+            "intro": "Dental filling materials include:",
+            "points":[
+                "Gold.",
+                "Porcelain.",
+                "Silver amalgam (contains mercury mixed with silver, tin, zinc, and copper).",
+                "Tooth-colored, plastic and glass materials called composite resin fillings."
+            ]
+        },
+        "benefits":{
+            "head": "Are there advantages and disadvantages to various filling materials?",
+            "intro": "Yes. Advantages and disadvantages of the various dental filling materials are as follows:",
+            "points":[
+                "Gold: Lasts at least 10 to 15 years, some say gold presents a pleasing appearance.",
+                "Silver fillings (amalgams): Lasts at least 10 to 15 years, less expensive than composite fillings.",
+                "Tooth-colored composite fillings: Shade can be closely matched to color of existing teeth, bonds to existing tooth providing additional support, commonly used for repairs other than cavity filling, sometimes less tooth needs to be removed compared with amalgams.",
+                "Ceramics/porcelain: Lasts more than 15 years, more resistant to staining than composite resin material.",
+                "Glass ionomer (acrylic and a specific type of glass material): Mostly used for fillings below the gum line, releases fluoride that can help protect from further tooth decay."
+            ]
+        },
+        "risks":{
+            "head": "Disadvantages",
+            "intro": "",
+            "points":[
+                "Gold: More expensive than other materials, may require more than one office visit to place.",
+                "Silver: May require more tooth to be removed to make space large enough to hold filling, creates grayish hue to the surrounding tooth structure, may have higher risk of tooth cracks and fractures due to wider degree of expansion and contraction, allergic potential in some people.",
+                "Tooth-colored composite fillings: Lasts at least five years (less than the 10 to 15 years of other materials), may chip off tooth depending on location, can cost up to twice as much as amalgams, can take more time to place and/or additional visits.",
+                "Ceramics: Can cost as much as gold.",
+                "Glass ionomer: Is weaker than composite resin, more likely to wear and prone to fracture, lasts five years or less, costs comparable to composite fillings."
+            ]
+        },
+        "aftercare":{
+            "head": "How should I care for my teeth with fillings?",
+            "intro": "To maintain your fillings, you should follow good oral hygiene practices:",
+            "points":[
+                "Visiting your dentist regularly (twice a year) for cleanings.",
+                "Brush with a fluoride-containing toothpaste.",
+                "Floss at least once daily."
+            ]
+        }
+    },
+    "teeth-whitening":{
+        "head": "What is teeth whitening?",
+        "description": "Tooth whitening is any process that lightens the color of a tooth. Whitening may be accomplished by physical removal of the stain or a chemical reaction to lighten the tooth color. Bleaching is defined here as the chemical degradation of the chromogens. ",
+        "recommended":{
+            "head": "Do i need teeth whitening",
+            "intro": "Whether you use an at-home tooth-whitening system, or have your teeth bleached by a dentist, you can help maintain the results by brushing, flossing, and rinsing daily. Also, avoid acidic and tannin-rich foods and beverages such as:",
+            "points":[
+                "Black teas and coffee",
+                "White and red wine",
+                "Sports drinks",
+                "Carbonated beverages (dark and light-colored sodas)",
+                "Berries and other strongly-colored foods",
+                "Sauces (soy, tomato, curries)"
+            ]
+        },
+        "benefits":{
+            "head": "Benefits associated with Tooth Whitening",
+            "intro": "While your dentist may be able to repair teeth damaged by decay or gum disease, it’s always preferable to stop problems before they start. This is where good oral hygiene comes in. Practicing good oral hygiene offers a wide range of benefits, including:",
+            "points":[
+                "Healthier teeth and gums.",
+                "A beautiful smile.",
+                "Fresher breath.",
+                "A reduced need for dental work such as fillings, crowns, bridges, implants or dentures.",
+                "A lowered risk of heart disease, stroke, diabetes and other health concerns.",
+                "A reduced risk of oral cancer."
+            ]
+        },
+        "risks":{
+            "head": "",
+            "intro": "",
+            "points":["The two side effects that occur most often with teeth whitening are a temporary increase in tooth sensitivity and mild irritation of the soft tissues of the mouth, particularly the gums. Tooth sensitivity often occurs during early stages of the bleaching treatment. Tissue irritation most commonly results from an ill-fitting mouthpiece tray rather than the tooth-bleaching agent. Both of these conditions usually are temporary and disappear within 1 to 3 days of stopping or completing treatment."]
+        },
+        "aftercare":{
+            "head": "Sensitivity",
+            "intro": "If you do experience sensitivity, you can reduce or eliminate it by:",
+            "points":[
+                "Wearing the tray for a shorter period of time (for example, two 30-minute sessions vs. two 60-minute sessions).",
+                "Stop whitening your teeth for 2 to 3 days to allow teeth to adjust to the process.",
+                "Ask your dentist or pharmacist for a high fluoride-containing product, which can help remineralize your teeth. Apply the fluoride product to the tray and wear for 4 minutes prior to and following the whitening agent.",
+                "Brush teeth with a toothpaste made for sensitive teeth. These toothpastes contain potassium nitrate, which helps soothe the teeth's nerve endings."
+
+            ]
+        }  
+    },
+    "dental-x-ray":{
+        "head": "What are dental X-rays and why are they needed?",
+        "description": "In the list of your favorite things, getting an X-ray at the dentist's office may not rank high. Wearing that heavy apron and holding a sometimes uncomfortable device between your teeth for even a few seconds isn't much fun.But X-rays show dental providers a lot. X-rays help them see the condition of your teeth, roots, jaw placement and facial bone composition. They also help them find and treat dental problems early in their development.X-rays are a form of energy that can travel through or be absorbed by solid objects. This energy is absorbed by dense objects, such as teeth and bones, and show up in X-rays as light-colored areas. X-rays pass through less dense objects, such as gums and cheeks, and appear as dark areas on X-ray film.X-rays can help find problems that cannot be seen with an oral exam. Finding and treating problems early in their development may save you money, avoid discomfort (if these problems are treated at a later time) and possibly even save your life.",
+        "recommended":{
+            "head": "",
+            "intro": "",
+            "points":[]
+        },
+        "benefits":{
+            "head": "What types of problems do X-rays help detect?",
+            "intro": "In adults, X-rays show:",
+            "points":[
+                "Decay, especially small areas of decay between teeth.",
+                "Decay beneath existing fillings.",
+                "Bone loss in the jaw.",
+                "Changes in the bone or root canal due to infection.",
+                "Condition and position of teeth to help prepare for tooth implants, braces, dentures or other dental procedures.",
+                "Abscesses (an infection at the root of a tooth or between the gum and a tooth).",
+                "Cysts and some types of tumors."
+            ]
+        },
+        "risks":{
+            "head": "",
+            "intro": "In children, X-rays determine:",
+            "points":[
+                "If decay is developing.",
+                "If there is enough space in the mouth to fit all incoming teeth.",
+                "If wisdom teeth are developing.",
+                "If teeth are impacted (unable to emerge through the gums)."
+            ]
+        },
+        "aftercare":{
+            "head": "How often should teeth be X-rayed?",
+            "intro": "How often X-rays need to be taken depends on your medical and dental history and current condition. Some people may need X-rays as often as every six months. Others who don’t have recent dental or gum disease and who have ongoing scheduled visits with their dentist may only need X-rays every couple of years. New patients may have X-rays taken at their first exam. First-visit X-rays are also used to compare with X-rays taken over time to look for problems and unexpected changes.X-rays may need to be taken more often in people at high risk for dental problems. These people include:",
+            "points":[
+                "Children: Children generally need more X-rays than adults because their teeth and jaws are still developing and because their teeth are more likely to be affected by tooth decay than adults.",
+                "Adults with a lot of restorative work, such as fillings: To look for decay beneath existing fillings or in new locations.",
+                "People who drink a lot of sugary beverages: To look for tooth decay.",
+                "People with periodontal (gum) disease: To monitor bone loss.",
+                "People who have dry mouth: Whether due to medications (such as antidepressants, antianxiety drugs, antihistamines and others) or health conditions (such as Sjogren’s syndrome, damaged salivary glands, radiation treatment to head and neck). Dry mouth conditions cause decay.",
+                "Smokers: To monitor bone loss that results from gum disease (smokers are at increased risk of gum disease)."
+            ]
+        }
+    },
+    "dental-braces":{
+        "head": "What are dental braces?",
+        "description": "Braces are dental tools that help correct problems with your teeth, like crowding, crooked teeth, or teeth that are out of alignment. Many people get braces when they’re teenagers, but adults get them too. As you wear them, braces slowly straighten and align your teeth so you have a normal bite. Some people get braces to adjust their smile.",
+        "recommended":{
+            "head": "Who needs dental braces?",
+            "intro": "The signs that an adult needs braces can vary according to age and overall dental health.",
+            "points":[
+                "teeth that are visibly crooked or crowded",
+                "difficulty flossing between and brushing around crooked teeth",
+                "frequently biting your tongue or cutting your tongue on your teeth",
+                "teeth that don’t close over each other properly when your mouth is at rest",
+                "difficulty pronouncing certain sounds due to your tongue’s position under your teeth",
+                "jaws that click or make noises when you chew or first wake up",
+                "stress or fatigue on your jawline after chewing food"
+            ]
+        },
+        "benefits":{
+            "head": "Benefits of dental braces ",
+            "intro": "Braces offer a way for many adults and children to enhance their smiles. Yet, braces do much more than simply straighten teeth. They can also make a big impact on one’s oral health.",
+            "points":[
+                "Better Brushing Habits",
+                "Fresher Breath",
+                "Faster Digestion",
+                "Smoother Speech",
+                "Less Risk of Tooth Injury",
+                "Stronger Jaw Bones",
+                "Improved Self-Esteem"
+            ]
+        },
+        "risks":{
+            "head": "What Foods Are Off-Limits With Braces?",
+            "intro": "Braces are delicate. Breaking part of the appliance can result in the teeth moving in the wrong direction and in longer treatment. Avoid anything that is hard, sticky, or chewy, including:",
+            "points":[
+                "Ice",
+                "Nuts",
+                "Popcorn",
+                "Hard candy",
+                "Chewing gum",
+                "Chewy candy, like caramel",
+                "Gummies",
+                "Hard or tough-to-bite foods, such as apples or bagels",
+                "Corn on the cob",
+                "Hard pretzels",
+                "Carrots"
+            ]
+        },
+        "aftercare":{
+            "head": "Caring for Teeth With Braces and Retainers",
+            "intro": "",
+            "points":[
+                "Braces, wires, springs, rubber bands, and other appliances can attract food and plaque, which can stain teeth if not brushed away. Most orthodontists recommend brushing after every meal or snack with fluoride toothpaste and carefully removing any food that may have gotten stuck in your braces. Some orthodontists will also prescribe or recommend a fluoride mouthwash, which can get into places in the mouth that a toothbrush can't reach. A Waterpik or AirFlosser is also sometimes helpful to flush out stuck food."
+            ]
+        }
+    },
+    "tooth-jewellery":{
+        "head": "What is tooth jewellery",
+        "description": "Tooth jewellery is the act of placing individual jewels onto the outer surface of the teeth.",
+        "recommended":{
+            "head": "Why You Should Get Teeth Jewellery?",
+            "intro": "",
+            "points":[]
+        },
+        "benefits":{
+            "head": "",
+            "intro": "",
+            "points":[]
+        },
+        "risks":{
+            "head": "The health risks of tooth jewellery",
+            "intro": "Having a jewel stuck onto the surface of your tooth can cause serious damage.",
+            "points":[
+                "The area of the tooth underneath the gem is impossible to clean and can become damaged.  Without daily cleaning, a ‘plaque trap’ can develop, leading to a build-up of bacteria.  Over time this can cause tooth decay and tooth loss."
+            ]
+        },
+        "aftercare":{
+            "head": "Removing tooth jewellery",
+            "intro": "",
+            "points":[
+                "Tooth jewellery can feel uncomfortable, and it may rub against the lips, cheeks, or gums. If you are in discomfort or pain because of your tooth jewellery, it is a sign that you might need to have it removed.Although it is unlikely that your tooth jewellery has been applied by a dental professional, you will certainly need one if you ever want to remove it.Never attempt to remove a tooth jewel on your own.  The glue attaching the gem to your tooth will be extremely strong and attempting to remove it without dental supervision could cause permanent and painful side effects.If you would like to remove your tooth jewellery, make an appointment with your dentist. "
+            ]
+        }
+    }
+}
